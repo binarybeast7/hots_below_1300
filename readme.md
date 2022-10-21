@@ -55,4 +55,4 @@ git push origin <branch-name>
 
 
 ***  note  -- ***
-# while uploading file, please comment the link of the question inside the code which is already mentioned in the issue.
+# while uploading file, please mention the link and title of the question inside the code which is already mentioned in the issue.
